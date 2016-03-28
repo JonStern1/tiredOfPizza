@@ -1,0 +1,13 @@
+body {
+  background-color: #7effc7;
+  font-family: 'Droid Serif', serif;
+}
+
+td {
+  padding: 10px 10px 10px 10px;
+}
+
+img.align-center{
+  display: block;
+  margin: 0px auto;
+}
